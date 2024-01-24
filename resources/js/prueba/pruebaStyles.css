@@ -1,0 +1,14 @@
+#container-main {
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;
+}
+
+.title {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-weight: bold;
+}
